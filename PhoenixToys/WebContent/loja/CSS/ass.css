@@ -1,0 +1,470 @@
+
+body{
+
+	background-image: url(../imgs/bg2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;}
+
+
+#cabecalho{
+	background-image: url(bgtopo2.png) no-repeat;
+	width: 1020px;
+	height: 200px;
+	margin-left:57px;
+	border: 2px solid none;}
+	
+#form{
+	position: absolute;
+	margin-left: 740px;
+	margin-top: -22px;}
+	
+#formAss{border: 2px solid none;
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 800px;
+	color: red;
+}
+
+#tituloEnd{
+	font-family:'Paytone One', sans-serif;
+	margin-left: 575px;
+	font-size: 24px;
+	margin-top: -395px;
+	color: navy;
+}
+
+#EnderecosAss p{
+	padding-top: 10px;
+	margin-left: 600px;
+	font-family: 'Lato', sans-serif;
+	color: midnightblue;
+	font-weight: bold;}
+#menu{
+	margin-left:57px;
+	border: 2px solid none;
+	width: 1020px;
+	height: 60px;}
+
+	
+	
+	
+	
+#linkhome{
+	z-index: 1;
+	font-size: 25px;
+	text-decoration: none;
+	margin-top: 26px;
+	margin-left: 80px;
+	position: absolute;
+	color: white;
+	font-family: 'Shift', sans-serif;
+	}	
+
+#linkhome:hover{
+	color:#FF69B4;
+	font-weight: bold;}	
+	
+	
+
+
+
+#linkLogin{
+	z-index: 1;
+	font-size: 25px;
+	text-decoration: none;
+	margin-top: 26px;
+	margin-left: 333px;
+	position: absolute;
+	color: white;
+	font-family: 'Shift', sans-serif;}
+	
+#linkLogin:hover{
+	font-weight:bold;
+	color: #FF69B4;}
+	
+		
+	
+	
+#linkquem{
+	z-index: 1;
+	font-size: 25px;
+	text-decoration: none;
+	margin-top: 26px;
+	margin-left: 550px;
+	position: absolute;
+	color: white;
+	font-family: 'Shift', sans-serif;}
+	
+#linkquem:hover{
+	font-weight:bold;
+	color: #FF69B4;}
+	
+	
+	
+
+#linkass{z-index: 1;
+	font-size: 25px;
+	text-decoration: none;
+	margin-top: 26px;
+	margin-left: 812px;
+	position: absolute;
+	color: white;
+	font-family: 'Shift', sans-serif;
+	}
+#linkass:hover{
+	font-weight:bold;
+	color: #6495ED;}	
+	
+	
+	
+	
+#img{
+	position: relative;
+	}
+
+#categorias{
+	text-align: center;
+	width: 1019px;
+	height: 100px;
+	border: 2px solid none;}
+
+	
+	/*DIVS ARREDONDADAS */
+	
+#listacategorias li{
+	padding-top: 30px;
+	margin: 1.2em;
+	margin-top: -10px;
+	display:inline-block;
+	}
+
+#meninos{
+	color: blue;
+	background-color: white;
+	width: 190px;
+	height: 90px;
+	border: 1px solid white;
+	border-radius: 75%;}
+
+#meninas{
+	text-align: center;
+	color: pink;
+	background-color: white;
+	width: 190px;
+	height: 90px;
+	border: 1px solid white;
+	border-radius: 75%;}
+	
+#linkdivMeninos{position: absolute;
+margin-top:-85px;
+font-family: 'Paytone One', sans-serif;
+margin-left: -405px;
+text-decoration: none;
+font-size: 25px;
+color: purple;}
+
+#linkdivMeninos:hover{
+color:navy;}
+
+#linkdivMeninas{position: absolute;
+margin-top:-85px;
+font-family: 'Paytone One', sans-serif;
+margin-left: -170px;
+text-decoration: none;
+font-size: 25px;
+color: purple;}
+
+#linkdivMeninas:hover{
+color:navy;}
+
+#linkdivBebes{position: absolute;
+margin-top:-85px;
+font-family: 'Paytone One', sans-serif;
+margin-left: 80px;
+text-decoration: none;
+font-size: 25px;
+color: purple;}
+
+#linkdivBebes:hover{
+color:navy;}
+
+#linkdivRetro{position: absolute;
+margin-top:-85px;
+font-family: 'Paytone One', sans-serif;
+margin-left: 315px;
+text-decoration: none;
+font-size: 25px;
+color: purple;}
+
+#linkdivRetro:hover{
+color:navy;}
+
+#bebes{
+	background-color: white;
+	width: 190px;
+	height: 90px;
+	border: 1px solid white;
+	border-radius: 75%;}
+	
+#retro{
+	width: 190px;
+	height: 90px;
+	border: 1px solid white;
+	border-radius: 75%;
+	background-color: white;}
+
+/*FIM DAS DIVS ARREDONDADAS */
+
+/*ALTERAR O TAMANHO DO CONTEUDO  */	
+#conteudo{margin-top: 20px;
+	margin-left:57px;
+	width: 1020px;
+	height: 470px;
+	border: 1px solid none;
+	}
+/*SO AJEITAR O HEIGHT PARA ALINHAR COM O RODAPE */
+
+#sep{
+	border: pink 1px solid;
+	background-color: pink;
+	width: 1px;
+	height: 400px;
+	position: absolute;
+	margin-left: 508px;
+	margin-top: 5px;
+	border-radius: 25%;
+	}	
+#produtos{
+	
+	padding-top: 20px;
+	width: 700px;
+	height: 599px;
+	border: 1px solid none;
+	margin: 0 auto;}
+	
+#table2{
+	margin-top: 30px;}
+
+#rodape{
+	padding-left:60px;
+	width: 960px;
+	border: 1px solid none;
+	height: 180px;
+	}
+#rodapeMeninos{
+	position: absolute;
+	margin-top: 35px;
+	margin-left: 70px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;}
+
+#rodapeMeninos:hover{
+ font-weight: bold;
+ color:gray;}
+	
+#rodapeMeninas{
+	position: absolute;
+	margin-top: 45px;
+	margin-left: 70px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;}
+	
+#rodapeMeninas:hover{
+ font-weight: bold;
+ color:gray;}
+	
+	
+#rodapeRetro{
+	position: absolute;
+	margin-top: 55px;
+	margin-left: 70px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;}
+	
+#rodapeRetro:hover{
+ font-weight: bold;
+ color:gray;}
+	
+	
+#rodapeBebes{
+	position: absolute;
+	margin-top: 65px;
+	margin-left: 70px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;}
+
+#rodapeBebes:hover{
+ font-weight: bold;
+ color:gray;}
+	
+
+#rodapeCategorias{
+	position:absolute;
+	margin-left: 50px;
+	font-size: 35px;
+	font-family: 'Butterfly Kids', cursive;
+	font-weight:bold;
+	color: red;}
+
+#rodapeLogin{
+	position:absolute;
+	margin-left: 250px;
+	margin-top: -73px;
+	font-size: 35px;
+	font-family: 'Butterfly Kids', cursive;
+	font-weight:bold;
+	color: navy;
+}
+
+#rodapeMinhaconta{
+	position: absolute;
+	margin-top: -38px;
+	margin-left: 240px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;
+	}
+	
+#rodapeMinhaconta:hover{
+ font-weight: bold;
+ color:gray;}
+	
+	
+#rodapeCadastro{
+	position: absolute;
+	margin-top: -28px;
+	margin-left: 250px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;}
+	
+#rodapeCadastro:hover{
+ font-weight: bold;
+ color:gray;}
+	
+	
+#rodapeQuemSomos{
+	position:absolute;
+	margin-left: 420px;
+	margin-top: -110px;
+	font-size: 35px;
+	font-family: 'Butterfly Kids', cursive;
+	font-weight:bold;
+	color: orange;
+}
+
+#rodapePoliticas{
+	position: absolute;
+	margin-top: -76px;
+	margin-left: 450px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;}
+	
+#rodapePoliticas:hover{
+ font-weight: bold;
+ color:gray;}
+	
+	
+#rodapeContatos{
+	position: absolute;
+	margin-top: -65px;
+	margin-left: 450px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;}
+	
+#rodapeContatos:hover{
+ font-weight: bold;
+ color:gray;}
+	
+	
+#rodapeEmpresa{
+	position: absolute;
+	margin-top: -55px;
+	margin-left: 425px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;}
+	
+#rodapeEmpresa:hover{
+ font-weight: bold;
+ color:gray;}
+	
+	
+	
+#rodapeAssis{
+	position:absolute;
+	margin-left: 650px;
+	margin-top: -163px;
+	font-size: 35px;
+	font-family: 'Butterfly Kids', cursive;
+	font-weight:bold;
+	color: teal;
+}
+
+#rodapeFormularios{
+	position: absolute;
+	margin-top: -125px;
+	margin-left: 672px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;}
+	
+#rodapeFormularios:hover{
+ font-weight: bold;
+ color:gray;}
+	
+#rodapeEnderecos{
+	position: absolute;
+	margin-top: -118px;
+	margin-left: 660px;
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Butterfly Kids', cursive;}
+
+#rodapeEnderecos:hover{
+ font-weight: bold;
+ color:gray;}
+	
+#descricao{ font-size: 15px;
+			color: black;
+			font-family: Comic Sans MS;
+	}
+
+#preco{ font-size: 15px;
+			color: red;
+			font-family:  'Shift', sans-serif;
+	}	
+	
+#rodape2
+	{position:relative;
+	width: 960px;
+	height:150px;
+	top:-10px
+	}
+#baner{
+	position:relative;
+	left:50px;
+	top:20px;
+	}
+
+
+	
+	
